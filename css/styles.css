@@ -1,0 +1,24 @@
+/* Styles */
+
+p {
+    background-color:rgb(70, 70, 179);
+}
+
+.yellowfont {
+    color:rgb(199, 199, 0);
+}
+
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 48px;
+}
+
+img {
+    height: auto;
+    width: 455px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
