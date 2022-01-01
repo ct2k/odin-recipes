@@ -1,11 +1,12 @@
 /* Styles */
 
 p {
-    background-color:rgb(70, 70, 179);
+    background-color:rgb(253, 255, 152);
+    text-align: center;
 }
 
-.yellowfont {
-    color:rgb(199, 199, 0);
+.bluefont {
+    color:rgb(0, 46, 253);
 }
 
 h1 {
@@ -20,5 +21,6 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 25%;
 
 }
